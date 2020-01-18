@@ -1,4 +1,4 @@
-# Legal-balls-and-No-balls-Image-Classification
+# Legal-balls-and-No-balls-Image-Classification-Competition
 This model has been built to classify images as No ball or Legal ball
 
 
